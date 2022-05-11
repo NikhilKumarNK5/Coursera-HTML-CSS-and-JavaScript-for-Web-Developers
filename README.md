@@ -7,3 +7,4 @@ This repository contains all of the source code used in the course called HTML, 
 
 * Module-1 - Quiz 
 * Module-2 - Coding
+* Module-3 - Coding
